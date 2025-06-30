@@ -14,16 +14,16 @@ Aplikasi ini adalah sistem manajemen tiket bantuan berbasis React, Bootstrap, da
 ## 📸 Screenshot
 
 ### Tampilan Daftar Tiket + Pencarian
-![Tampilan 1](./assets/Dokumentasi1.jpeg)
+![Tampilan 1](screenshot/Dokumentasi1.jpeg)
 
 ### Modal untuk mengedit Tiket
-![Tampilan 2](./assets/Dokumentasi2.jpeg)
+![Tampilan 2](screenshot/Dokumentasi2.jpeg)
 
 ### Modal untuk mengcreate Tiket
-![Tampilan 3](./assets/Dokumentasi3.jpeg)
+![Tampilan 3](screenshot/Dokumentasi3.jpeg)
 
 ### Modal untuk mengkonfirmasi hapus
-![Tampilan 4](./assets/Dokumentasi4.jpeg)
+![Tampilan 4](screenshot/Dokumentasi4.jpeg)
 
 
 ## 🚀 Cara Menjalankan
